@@ -1,4 +1,8 @@
 # hello-world
-you will learn how to create and use new repository
-hello there
-Write a commit message that describes your changes.
+public class HelloWorld
+{
+    public static void main(String[] args)
+    {
+        System.out.println("Hello, World!")
+    }
+}
